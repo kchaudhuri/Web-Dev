@@ -1,0 +1,50 @@
+/* Name - Kaustubh Chaudhuri */
+
+body {
+    background-image: url("back1.jpg");
+    background-color: black;
+}
+
+h1 {
+    position: relative;
+    top: 40px;
+    color: #774001;
+    text-align: center;
+    font-family:"Century Gothic", "HelveticaNeueLT Pro 45 Lt", sans-serif;
+    font-size: 60px;
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+p{
+    color: #54253d;
+    text-align: center;
+    font-family:"Century Gothic", "HelveticaNeueLT Pro 45 Lt", sans-serif;
+    font-size: 50px;
+    text-shadow: 0px 5px 5px rgba(100,100,100,.5);
+    font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li{
+    font-family:"Century Gothic", "HelveticaNeueLT Pro 45 Lt", sans-serif;
+    font-size: 40px;
+}
+
+div{
+  position: relative;
+  top: 80px;
+  vertical-align: middle;
+  text-align: center;
+}
+
+Img {
+    position: relative;
+    top: 100px;
+    border: 15px solid #3e2b14;
+    padding: 10px;
+}

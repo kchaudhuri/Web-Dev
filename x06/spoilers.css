@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+  }
+
+  .spoil-protect{
+    background-color: black;
+  }
+
+  span:hover{
+    background-color: lightblue;
+  }

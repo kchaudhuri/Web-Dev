@@ -1,0 +1,46 @@
+By Kaustubh Chaudhuri
+Javascript events
+
+As the term says these are actions that happen to HTML elements, give corresponds to javascript functions.
+
+There are many forms of events like:
+onclick - the event occurs on clicking an HTML element
+onload - the event occurs when a page has finished loading
+onchange - this event occurs on change of an HTML element
+
+For example:
+<button onclick="display()"></button>
+When the button is clicked 'display()' function is called.
+
+<input onchange="check()"></input>
+When the input value is changed 'check()' function is called.
+
+JavaScript HTML DOM
+These are few kinds of events.
+
+1) Input Events
+
+onfocus - occurs on focusing an input field.
+<input type="text" onfocus="myFunct()"></input>
+
+onreset - occurs when the user clicks the reset button.
+<form onreset="message()"></form>
+
+2) Mouse Events
+
+onmouseover - occurs when the mouse is passed over an element.
+<h1 onmouseover="count()"></h1>
+
+3) Click Events
+
+ondblclick - occurs when a text is double clicked.
+<p ondblclick="display()">Doubleclick here</p>
+
+4) Load Events
+
+onresize - occurs if the browser window is resized.
+<body onresize="scale()">
+.
+.
+.
+</body>
